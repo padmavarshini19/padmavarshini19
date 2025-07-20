@@ -17,10 +17,10 @@
 
 ## 💻 Tools & Technologies
 
--  Python, Java, SQL  
+-  Python, SQL  
 -  Pandas, Seaborn, Matplotlib  
 -  Streamlit, Git, VS Code, Colab  
--  Canva, InShot, Basic Video Editing  
+-  Canva, Basic Video Editing  
 
 <p>&nbsp;</p>
 
